@@ -1,19 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tomonami Github!&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=tomoe-nanami%20&desc=Github&color=auto)
 
 Hi, I'm nanami-tomoe. I'm developing to make services that will improve our lives.
 ---
+- 🎓 I’m currently an undergraduate </p>
+- 🌱 I’m currently learning Back-End</p>
 
-- 🎓 I’m currently an undergraduate
-- 🌱 I’m currently learning Back-End
+**<h3 align="center"> 📚 Tech Stack 📚 </p>**
 
-<center> 📚 Tech Stack 📚 </center> 
-
-<br><br> 
-
-<center> ✨ Platforms & Languages ✨ </center>
-
-<br>
-<br>
+**<p align="center"> ✨ Platforms & Languages ✨ </p>**
 
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
@@ -26,9 +20,8 @@ Hi, I'm nanami-tomoe. I'm developing to make services that will improve our live
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 	<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
-<br>
-<br>
-<center> 🛠️ Tools 🛠️ </center>
+
+**<p align="center"> 🛠️ Tools 🛠️ </p>**
 
 <div align="center">
 	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -40,9 +33,8 @@ Hi, I'm nanami-tomoe. I'm developing to make services that will improve our live
 	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
-<center> 🎨 Tools 🎨 </center>
-<br>
-<br>
+**<p align="center"> 🎨 SNS & Portfolio 🎨 </p>**
+
 <div align="center">
 	<a href="https://nanamitomoe.tistory.com/">
 		<img src="https://img.shields.io/badge/tistory-09B3AF?style=for-the-badge&logo=tistory&logoColor=white"/>
@@ -51,17 +43,14 @@ Hi, I'm nanami-tomoe. I'm developing to make services that will improve our live
 		<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
 </div>
-<br>
-<br>
-<center> My Top Languages </center>
-<br>
-<br>
+
+**<h3 align="center"> My Top Languages </p>**
+
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanami-tomoe&layout=compact">
 </div>
-<br>
-<br>
-<center> My Github Stars </center>
+
+**<h3 align="center"> My Github Stars </p>**
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=nanami-tomoe&show_icons=true">

@@ -2,8 +2,8 @@
 
 Hi, I'm nanami-tomoe. I'm developing to make services that will improve our lives.
 ---
-- 🎓 I’m currently an undergraduate </p>
-- 🌱 I’m currently learning Back-End</p>
+- 🎓 I’m currently an undergraduate
+- 🌱 I’m currently learning Back-End
 
 **<h3 align="center"> 📚 Tech Stack 📚 </p>**
 

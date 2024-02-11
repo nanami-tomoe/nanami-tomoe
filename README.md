@@ -15,7 +15,6 @@ Hi, I'm nanami-tomoe. I'm developing to make services that will improve our live
 	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 	<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,15 +28,14 @@ Hi, I'm nanami-tomoe. I'm developing to make services that will improve our live
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-	<img src="https://img.shields.io/badge/eclipseide-525C86?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
 **<p align="center"> 🎨 SNS & Portfolio 🎨 </p>**
 
 <div align="center">
-	<a href="https://nanamitomoe.tistory.com/">
-		<img src="https://img.shields.io/badge/tistory-09B3AF?style=for-the-badge&logo=tistory&logoColor=white"/>
+	<a href="https://velog.io/@hh7141/posts">
+		<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 	</a>
 	<a href="mailto:npnp123npnp123@gmail.com">
 		<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>

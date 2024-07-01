@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=tomoe-nanami%20&desc=Github&color=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=nanami-tomoe%20&desc=Github&color=auto)
 
 Hi, I'm nanami-tomoe. I'm developing to make services that will improve our lives.
 ---

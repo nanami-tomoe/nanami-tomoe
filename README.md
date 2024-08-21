@@ -12,6 +12,7 @@ Hi, I'm nanami-tomoe. I'm developing to make services that will improve our live
 - `Spring Webflux `
 - `Django REST Framework `
 - `MySql`
+- `Redis`
 - `E2C` 
 
 ### 🚀 Front-End 🚀

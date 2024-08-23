@@ -13,7 +13,8 @@ Hi, I'm nanami-tomoe. I'm developing to make services that will improve our live
 - `Django REST Framework `
 - `MySql`
 - `Redis`
-- `E2C` 
+- `E2C`
+- `Docker` 
 
 ### 🚀 Front-End 🚀
 - `Kotlin` <br>

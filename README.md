@@ -12,9 +12,7 @@ Hi, I'm nanami-tomoe. I'm developing to make services that will improve our live
 - `Spring Webflux `
 - `Django REST Framework `
 - `MySql`
-- `Redis`
-- `EC2`
-- `Docker` 
+- `Redis` 
 
 ### 🚀 Front-End 🚀
 - `Kotlin` <br>
